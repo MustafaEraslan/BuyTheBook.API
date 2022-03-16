@@ -1,0 +1,15 @@
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\bin\Debug\net5.0\BuyTheBook.Shared.deps.json
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\bin\Debug\net5.0\BuyTheBook.Shared.dll
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\bin\Debug\net5.0\ref\BuyTheBook.Shared.dll
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\bin\Debug\net5.0\BuyTheBook.Shared.pdb
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\bin\Debug\net5.0\BuyTheBook.Models.dll
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\bin\Debug\net5.0\BuyTheBook.Models.pdb
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\obj\Debug\net5.0\BuyTheBook.Shared.csproj.AssemblyReference.cache
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\obj\Debug\net5.0\BuyTheBook.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\obj\Debug\net5.0\BuyTheBook.Shared.AssemblyInfoInputs.cache
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\obj\Debug\net5.0\BuyTheBook.Shared.AssemblyInfo.cs
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\obj\Debug\net5.0\BuyTheBook.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\obj\Debug\net5.0\BuyTheBook.Shared.csproj.CopyComplete
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\obj\Debug\net5.0\BuyTheBook.Shared.dll
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\obj\Debug\net5.0\ref\BuyTheBook.Shared.dll
+C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.Shared\obj\Debug\net5.0\BuyTheBook.Shared.pdb
