@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+iFyfAN9f+ZH+6cAHf6AzgQw383yhnKYW0ObHfpO+1NhB1x/8EWU7Et1uj9AiUVUkNGRKP04TMvc/p4tYdK9Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mustafa.eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.API\\BuyTheBook.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mustafa.eraslan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mustafa.eraslan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mustafa.eraslan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\mustafa.eraslan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\mustafa.eraslan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\mustafa.eraslan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\mustafa.eraslan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
