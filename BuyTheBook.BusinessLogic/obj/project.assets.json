@@ -9348,19 +9348,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mustafa.eraslan\\.nuget\\packages\\": {}
+    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mustafa.eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.BusinessLogic\\BuyTheBook.BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.BusinessLogic\\BuyTheBook.BusinessLogic.csproj",
       "projectName": "BuyTheBook.BusinessLogic",
-      "projectPath": "C:\\Users\\mustafa.eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.BusinessLogic\\BuyTheBook.BusinessLogic.csproj",
-      "packagesPath": "C:\\Users\\mustafa.eraslan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mustafa.eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.BusinessLogic\\obj\\",
+      "projectPath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.BusinessLogic\\BuyTheBook.BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mustafa.eraslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mustafa Eraslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9374,14 +9374,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\mustafa.eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Core\\BuyTheBook.Core.csproj": {
-              "projectPath": "C:\\Users\\mustafa.eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Core\\BuyTheBook.Core.csproj"
+            "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Core\\BuyTheBook.Core.csproj": {
+              "projectPath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Core\\BuyTheBook.Core.csproj"
             },
-            "C:\\Users\\mustafa.eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj": {
-              "projectPath": "C:\\Users\\mustafa.eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj"
+            "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj": {
+              "projectPath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj"
             },
-            "C:\\Users\\mustafa.eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Shared\\BuyTheBook.Shared.csproj": {
-              "projectPath": "C:\\Users\\mustafa.eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Shared\\BuyTheBook.Shared.csproj"
+            "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Shared\\BuyTheBook.Shared.csproj": {
+              "projectPath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Shared\\BuyTheBook.Shared.csproj"
             }
           }
         }
@@ -9433,12 +9433,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

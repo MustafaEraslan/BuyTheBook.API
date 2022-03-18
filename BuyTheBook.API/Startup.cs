@@ -34,7 +34,7 @@ namespace BuyTheBook.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddAutoMapper(typeof(Startup));
-            services.AddDbContext<BuyTheBookDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Default")));
+            services.AddDbContext<BuyTheBookDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("SqlServer")));
 
             // Adding Authentication
             services.AddAuthentication(options =>
