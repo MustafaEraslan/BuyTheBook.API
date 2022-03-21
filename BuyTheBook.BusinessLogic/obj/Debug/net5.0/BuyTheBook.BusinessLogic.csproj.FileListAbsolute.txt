@@ -20,11 +20,6 @@ C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.BusinessLogi
 C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\ref\BuyTheBook.BusinessLogic.dll
 C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.pdb
 C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.genruntimeconfig.cache
-C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.csproj.AssemblyReference.cache
-C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.AssemblyInfoInputs.cache
-C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.AssemblyInfo.cs
-C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.csproj.CoreCompileInputs.cache
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\bin\Debug\net5.0\BuyTheBook.BusinessLogic.deps.json
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\bin\Debug\net5.0\BuyTheBook.BusinessLogic.runtimeconfig.json
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\bin\Debug\net5.0\BuyTheBook.BusinessLogic.runtimeconfig.dev.json
@@ -36,6 +31,11 @@ C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.B
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\bin\Debug\net5.0\BuyTheBook.Core.pdb
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\bin\Debug\net5.0\BuyTheBook.Models.pdb
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\bin\Debug\net5.0\BuyTheBook.Shared.pdb
+C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.AssemblyInfo.cs
+C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.csproj.CoreCompileInputs.cache
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.csproj.CopyComplete
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\BuyTheBook.BusinessLogic.dll
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.BusinessLogic\obj\Debug\net5.0\refint\BuyTheBook.BusinessLogic.dll

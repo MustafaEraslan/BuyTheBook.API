@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TEL+jd0i046uhGnRk7Xzgwu0RY/GCMu97YKBRiclNmZNddekEJzky8EuhHdYV9WD4+8+LB/7fhHSvZS+LtFf1g==",
+  "dgSpecHash": "4lXevU6RtpglUNvq0OV7WxBMkc85nKN+rcWkyYRM2FO7lZ90RLnvRJJXik8kDGeoVFgBxSqS0kBzAu0TeC0n2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj",
   "expectedPackageFiles": [
@@ -24,10 +24,7 @@
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

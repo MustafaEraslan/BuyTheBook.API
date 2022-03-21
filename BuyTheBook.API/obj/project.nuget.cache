@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4z50G5PyOFKenFStC8rWKYSnwkXTnyUm5e2+pS9IJSLUtfxH1p31bKBj6Hidcq7vYF5yMXnXioXp7m8RangE6Q==",
+  "dgSpecHash": "owH2M45XjT+L+iObwleJDh/zxueVkGfBkaJkaH3lI65DC8O7grQH17OTFwbL1rVo66A87AxZyt7eNmzJEgvjDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.API\\BuyTheBook.API.csproj",
   "expectedPackageFiles": [
@@ -193,11 +193,7 @@
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\timezoneconverter\\3.5.0\\timezoneconverter.3.5.0.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\timezoneconverter\\3.5.0\\timezoneconverter.3.5.0.nupkg.sha512"
   ],
   "logs": []
 }

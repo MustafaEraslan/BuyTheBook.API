@@ -103,12 +103,6 @@ C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.API\obj\Debu
 C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\ref\BuyTheBook.API.dll
 C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.pdb
 C:\Users\mustafa.eraslan\Documents\GitHub\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.genruntimeconfig.cache
-C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.csproj.AssemblyReference.cache
-C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.AssemblyInfoInputs.cache
-C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.AssemblyInfo.cs
-C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.csproj.CoreCompileInputs.cache
-C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\bin\Debug\net5.0\appsettings.json
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\bin\Debug\net5.0\BuyTheBook.API.exe
@@ -198,7 +192,13 @@ C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.A
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\bin\Debug\net5.0\BuyTheBook.Core.pdb
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\bin\Debug\net5.0\BuyTheBook.Shared.pdb
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\bin\Debug\net5.0\BuyTheBook.Models.pdb
+C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.csproj.AssemblyReference.cache
+C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.AssemblyInfoInputs.cache
+C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.AssemblyInfo.cs
+C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.csproj.CoreCompileInputs.cache
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\scopedcss\bundle\BuyTheBook.API.styles.css
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\staticwebassets\BuyTheBook.API.StaticWebAssets.Manifest.cache
 C:\Users\Mustafa Eraslan\source\repos\MustafaEraslan\BuyTheBook.API\BuyTheBook.API\obj\Debug\net5.0\BuyTheBook.API.RazorTargetAssemblyInfo.cache
