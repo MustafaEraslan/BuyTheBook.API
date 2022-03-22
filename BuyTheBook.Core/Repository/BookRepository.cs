@@ -17,37 +17,37 @@ namespace BuyTheBook.Core.Repository
         {
             _context = context;
         }
-        public IEnumerable<Book> GetAllBooks()
+        public IEnumerable<Book> GetAll()
         {
             return _context.Books.ToList();
         }
-        public Book GetBookById(int bookId)
+        public Book GetById(int bookId)
         {
-            return _context.Books.Find(bookId);
+            return _context.Books.FirstOrDefault(x => x.Id == bookId);
         }
-        public void AddBook(Book bookEntity)
+        public void Insert(Book bookEntity)
         {
             if (bookEntity != null)
             {
                 _context.Books.Add(bookEntity);
+                _context.SaveChanges();
             }
         }
-        public void UpdateBook(Book bookEntity)
+        public void Update(Book bookEntity)
         {
             if (bookEntity != null)
             {
                 _context.Entry(bookEntity).State = EntityState.Modified;
+                _context.SaveChanges();
             }
         }
-        public void DeleteBook(int bookId)
+        public void Delete(int bookId)
         {
             Book BookEntity = _context.Books.Find(bookId);
             _context.Books.Remove(BookEntity);
-        }
-        public void Save()
-        {
             _context.SaveChanges();
         }
+      
 
         private bool disposed = false;
         protected virtual void Dispose(bool disposing)
@@ -67,16 +67,5 @@ namespace BuyTheBook.Core.Repository
 
             GC.SuppressFinalize(this);
         }
-
-        IEnumerable<Book> IBookRepository.GetAllBooks()
-        {
-            throw new NotImplementedException();
-        }
-
-        Book IBookRepository.GetBookById(int bookId)
-        {
-            throw new NotImplementedException();
-        }
-
     }
 }

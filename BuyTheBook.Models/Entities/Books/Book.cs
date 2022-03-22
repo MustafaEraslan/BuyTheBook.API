@@ -21,7 +21,7 @@ namespace BuyTheBook.Models.Entities.Books
         public int Stock { get; set; }
 
         public int CategoryId { get; set; }
-       
+        [ForeignKey("CategoryId")]
         public Category Category { get; set; }
     }
 }

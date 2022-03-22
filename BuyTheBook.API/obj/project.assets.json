@@ -9555,11 +9555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.API\\BuyTheBook.API.csproj",
+      "projectUniqueName": "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.API\\BuyTheBook.API.csproj",
       "projectName": "BuyTheBook.API",
-      "projectPath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.API\\BuyTheBook.API.csproj",
+      "projectPath": "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.API\\BuyTheBook.API.csproj",
       "packagesPath": "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.API\\obj\\",
+      "outputPath": "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mustafa Eraslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9576,14 +9576,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.BusinessLogic\\BuyTheBook.BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.BusinessLogic\\BuyTheBook.BusinessLogic.csproj"
+            "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.BusinessLogic\\BuyTheBook.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.BusinessLogic\\BuyTheBook.BusinessLogic.csproj"
             },
-            "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Core\\BuyTheBook.Core.csproj": {
-              "projectPath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Core\\BuyTheBook.Core.csproj"
+            "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Core\\BuyTheBook.Core.csproj": {
+              "projectPath": "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Core\\BuyTheBook.Core.csproj"
             },
-            "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Shared\\BuyTheBook.Shared.csproj": {
-              "projectPath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Shared\\BuyTheBook.Shared.csproj"
+            "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Shared\\BuyTheBook.Shared.csproj": {
+              "projectPath": "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Shared\\BuyTheBook.Shared.csproj"
             }
           }
         }

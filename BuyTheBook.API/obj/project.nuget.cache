@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "owH2M45XjT+L+iObwleJDh/zxueVkGfBkaJkaH3lI65DC8O7grQH17OTFwbL1rVo66A87AxZyt7eNmzJEgvjDw==",
+  "dgSpecHash": "dzfwlAMA6vtAVcrFzo3dK3GhyQ+2CehQ6+1lLix87VS20kGJ/tau1VfYnXvfa/1ARM/XTezi4SmyPpCFfevJXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.API\\BuyTheBook.API.csproj",
+  "projectFilePath": "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.API\\BuyTheBook.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\abp\\7.1.0\\abp.7.1.0.nupkg.sha512",
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",

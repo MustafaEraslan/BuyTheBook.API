@@ -1,5 +1,9 @@
+using Abp.Domain.Repositories;
 using Abp.Extensions;
+using BuyTheBook.BusinessLogic.Abstract;
+using BuyTheBook.BusinessLogic.Services;
 using BuyTheBook.Core.Context;
+using BuyTheBook.Core.Repository;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -78,6 +82,9 @@ namespace BuyTheBook.API
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "BuyTheBook.API", Version = "v1" });
             });
+
+            services.AddScoped<IBookRepository, BookRepository>();
+            services.AddScoped<IBookServices, BookServices>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

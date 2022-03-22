@@ -13,10 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\BuyTheBook.BusinessLogic\BuyTheBook.BusinessLogic.csproj" />
     <ProjectReference Include="..\BuyTheBook.Core\BuyTheBook.Core.csproj" />
     <ProjectReference Include="..\BuyTheBook.Shared\BuyTheBook.Shared.csproj" />

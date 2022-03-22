@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj": {}
+    "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj": {
+    "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj",
         "projectName": "BuyTheBook.Models",
-        "projectPath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj",
+        "projectPath": "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Models\\BuyTheBook.Models.csproj",
         "packagesPath": "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Models\\obj\\",
+        "outputPath": "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa Eraslan\\AppData\\Roaming\\NuGet\\NuGet.Config",

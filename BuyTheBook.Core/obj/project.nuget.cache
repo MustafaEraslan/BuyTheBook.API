@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7wX3HjxGiR+HmF8tUnUHZyWpjvLZze5ml3x99R4yRrYcxQEHCgnfflhdRcKIELUSNL44r7ohn+Q3PfsrFLPwgg==",
+  "dgSpecHash": "0WPxPTgMgNtKZkU8I+01VSV1nLbTETMmMqei8FoiB6oxSz81O53XIqNHYctz9/+jgA/CM9aMCr5WgPrgJqTjOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.Core\\BuyTheBook.Core.csproj",
+  "projectFilePath": "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.Core\\BuyTheBook.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

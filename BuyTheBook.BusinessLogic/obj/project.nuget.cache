@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lycF5KfCXksqqvQZuKY1Jg3HTc6C4bOlWgSEOifIXzblp2i0onEsuMRQXEQPHakHWIxb3Or6Ln0kEJJxGLIGmg==",
+  "dgSpecHash": "mmLFirEC37ieSz3N2E2nomabarqw7SfeL+Fr7AcMTjCxZc/f2C5mgltX5B+BwIPsEtelRj8xDLyo7+3svgaIjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mustafa Eraslan\\source\\repos\\MustafaEraslan\\BuyTheBook.API\\BuyTheBook.BusinessLogic\\BuyTheBook.BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\Mustafa Eraslan\\Documents\\GitHub\\BuyTheBook.API\\BuyTheBook.BusinessLogic\\BuyTheBook.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\abp\\7.1.0\\abp.7.1.0.nupkg.sha512",
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
@@ -187,10 +187,7 @@
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\timezoneconverter\\3.5.0\\timezoneconverter.3.5.0.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Mustafa Eraslan\\.nuget\\packages\\timezoneconverter\\3.5.0\\timezoneconverter.3.5.0.nupkg.sha512"
   ],
   "logs": []
 }
